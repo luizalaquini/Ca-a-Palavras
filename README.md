@@ -1,3 +1,3 @@
 # Caca-Palavras
 Caça Palavras
-/codacy/grade/:projectId
+https://img.shields.io/github/directory-file-count/luizalaquini/Caca-Palavras
