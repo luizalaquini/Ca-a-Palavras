@@ -6,6 +6,7 @@ Meu primeiro trabalho de programação! Feito na disciplina Programação I (UFE
 O objetivo desse trabalho foi consolidar todo o conteúdo de linguagem C visto até então, com foco na manipulação de matrizes. Para isso, desenvolvi um jogo de Caça Palavras para 2 jogadores.
 
 # Layout
+<img src='C:\Users\luiza\Pictures\GitHub\Caca-Palavras'>
 
 # Tecnologias Utilizadas
 - C
