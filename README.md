@@ -8,5 +8,6 @@
 
 # Autor
 
-Luiza Batista Laquini
+Luiza Batista Laquini\n
+
 LinkedIn: https://www.linkedin.com/in/luizalaquini/
