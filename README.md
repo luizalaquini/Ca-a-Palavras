@@ -1,4 +1,10 @@
 # Caça Palavras
+Para rodar (Linux):
+1 - Baixe e extraia o zip do código.
+2 - Entre na pasta, clique com o botão direito e selecione "Abrir no terminal"
+3 - Compile o código e execute passando o caminho do arquivo de configuração, dessa forma:
+![run](https://user-images.githubusercontent.com/72242547/156043102-db6e8a15-b89e-4550-b780-2362f2e638c7.png)
+
 
 # Sobre
 Meu primeiro trabalho de programação! Feito na disciplina Programação I (UFES) no semestre de 2019-1.
