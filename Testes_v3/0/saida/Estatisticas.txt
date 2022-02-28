@@ -1,0 +1,30 @@
+--------------
+--- PONTOS ---
+--------------
+
+Luiza
+Feitos: 6
+Recebidos: 2
+Total: 8
+
+Vic
+Feitos: 2
+Recebidos: 0
+Total: 2
+
+---------------------------
+--- PALAVRAS POR PONTOS ---
+---------------------------
+
+|P|     Palavra    | T |
+|-|----------------|---|
+|2|ave             |003|
+|2|azar            |001|
+|2|casa            |005|
+|2|mapa            |004|
+|1|area            |002|
+|1|panda           |006|
+|0|peru            |000|
+|0|reus            |000|
+|0|rua             |000|
+|0|zebra           |000|
