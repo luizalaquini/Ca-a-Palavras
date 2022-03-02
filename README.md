@@ -1,5 +1,9 @@
 # Caça Palavras
-Para rodar (Linux):
+![GitHub](https://img.shields.io/github/license/luizalaquini/Caca-Palavras)
+![GitHub language count](https://img.shields.io/github/languages/count/luizalaquini/Caca-Palavras)
+![GitHub followers](https://img.shields.io/github/followers/luizalaquini?label=Follow&style=social)
+
+Instruções para rodar (Linux):
 
 1 - Baixe e extraia o zip do código.
 
@@ -15,11 +19,11 @@ Meu primeiro trabalho de programação! Feito na disciplina Programação I (UFE
 
 O objetivo desse trabalho foi consolidar todo o conteúdo de linguagem C visto até então, com foco na manipulação de matrizes. Para isso, desenvolvi um jogo de Caça Palavras para 2 jogadores.
 
-# Layout
-![layout](https://user-images.githubusercontent.com/72242547/156042687-0db30c0e-d2d1-48af-abe6-245aa3fe4b4a.png)
-
 # Tecnologias Utilizadas
 - C
+
+# Layout
+![layout](https://user-images.githubusercontent.com/72242547/156042687-0db30c0e-d2d1-48af-abe6-245aa3fe4b4a.png)
 
 # Autor
 
