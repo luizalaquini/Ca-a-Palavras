@@ -1,4 +1,5 @@
 # Caça Palavras
+![GitHub](https://img.shields.io/github/license/luizalaquini/Caca-Palavras)
 ![GitHub repo size](https://img.shields.io/github/repo-size/luizalaquini/Caca-Palavras)
 ![GitHub language count](https://img.shields.io/github/languages/count/luizalaquini/Caca-Palavras)
 ![GitHub followers](https://img.shields.io/github/followers/luizalaquini?label=Follow&style=social)
